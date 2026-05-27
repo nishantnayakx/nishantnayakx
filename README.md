@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Nishant 👋<br><br>🎓 BTech CSE Student @ NIT Durgapur  <br>💻 Passionate about Competitive Programming, AI/ML, and Web Development  <br>🚀 Exploring Open Source, Cloud Computing, and Modern Tech Stacks  <br>🌱 Currently learning DSA, MERN Stack, and Machine Learning  <br>⚡ Love building projects, solving problems, and continuously improving<br>
+# Hi there, I'm Nishant 👋<br><br>🎓 BTech CSE Student @ NIT Durgapur  <br>💻 Passionate about Competitive Programming, AI/ML, and Web Development  <br>🚀 Exploring Open Source, Cloud Computing, DevOps, and Modern Tech Stacks  <br>🌱 Currently learning DSA, MERN Stack, and Machine Learning  <br>⚡ Love building projects, solving problems, and continuously improving<br>
 
 
 ## 🌐 Socials:
